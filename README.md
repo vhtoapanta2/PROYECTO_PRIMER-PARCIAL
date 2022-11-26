@@ -44,15 +44,17 @@ OBJETIVOS ESPECIFICOS:
 
 
       PROCEDIMIENTO
-Arme el circuito que se muestra en la figura 
+Arme el circuito que se muestra en la figura:
 
 ![image](https://user-images.githubusercontent.com/117923992/204065397-1fff1950-6b33-42c5-abe3-b94f6f5ad632.png)
+
+CIRCUITO FISICO
 
 ![image](https://user-images.githubusercontent.com/117923992/204065652-3ca071f9-cc00-46f0-9504-0c92e5546df2.png)
 
 Realizar las diferentes mediciones:
 
-Mediciones de la fuente de poder 
+Mediciones de la fuente de poder:
 
 ![image](https://user-images.githubusercontent.com/117923992/204065764-df0c7db7-cf67-4e4e-8a41-23dbbf10086f.png)
 
@@ -64,31 +66,39 @@ Medición del voltaje de la fotocélula mientras los diodos se encuentran desact
 
 ![image](https://user-images.githubusercontent.com/117923992/204065732-89186857-ca2b-47ee-91ba-ce14b8b635fc.png)
 
-Medición del voltaje de la fotocélula mientras los diodos se encuentran activados
+Medición del voltaje de la fotocélula mientras los diodos se encuentran activados:
 
 ![image](https://user-images.githubusercontent.com/117923992/204065790-536c3b75-cb44-4a44-a4d3-2592168ef5ea.png)
 
-Realizar la similacion en TINKERCAD
+Todas las mediciones fueron anotadas en la tabla 1
 
-Circuito
+Realizar la similacion en TINKERCAD y medir el circuito:
+
+CIRCUITO![image](https://user-images.githubusercontent.com/117923992/204108360-d3060c6d-7ae8-4cd1-ac49-7a4b355d4298.png)
+ EN TINKERCAD
 
 ![image](https://user-images.githubusercontent.com/117923992/204065855-fe41e0f6-2ea5-4775-896a-76f42931c704.png)
 
-Medición de la resistencia que se configuro al potenciómetro.
+Medición de la resistencia que se configuro al potenciómetro:
 
 ![image](https://user-images.githubusercontent.com/117923992/204065872-e00afe7e-3864-47c3-85e1-070946d339ad.png)
 
-Medición del voltaje de la fotocélula mientras los diodos se encuentran desactivados
+Medición del voltaje de la fotocélula mientras los diodos se encuentran desactivados:
 
 ![image](https://user-images.githubusercontent.com/117923992/204065881-b4bc2038-4c73-4bc3-9460-06f2bf61c3c4.png)
 
-Medición del voltaje de la fotocélula mientras los diodos se encuentran activados
+Medición del voltaje de la fotocélula mientras los diodos se encuentran activados:
 
 ![image](https://user-images.githubusercontent.com/117923992/204065893-c76b7e43-b42e-4734-b57b-5b47e2521ec0.png)
+ 
+Todas las mediciones se los anoto en la tabla 1.
 
-Tabla con los resutados de las mediciones fisicas y simuladas 
+Tabla con los resutados de las mediciones fisicas y simuladas: 
+
+Tabla 1.
 
 ![image](https://user-images.githubusercontent.com/117923992/204065945-eaadb749-e88f-46b3-9490-c8835ba61f7f.png)
+
 
       VIDEO 
 
