@@ -72,10 +72,9 @@ Medición del voltaje de la fotocélula mientras los diodos se encuentran activa
 
 Todas las mediciones fueron anotadas en la tabla 1
 
-Realizar la similacion en TINKERCAD y medir el circuito:
+Realizar la simulacion en TINKERCAD y medir el circuito:
 
-CIRCUITO![image](https://user-images.githubusercontent.com/117923992/204108360-d3060c6d-7ae8-4cd1-ac49-7a4b355d4298.png)
- EN TINKERCAD
+CIRCUITO EN TINKERCAD
 
 ![image](https://user-images.githubusercontent.com/117923992/204065855-fe41e0f6-2ea5-4775-896a-76f42931c704.png)
 
