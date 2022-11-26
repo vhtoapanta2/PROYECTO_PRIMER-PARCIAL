@@ -18,20 +18,30 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
  Docente: Ing. Darwin Omar Alulema Fores
 
-LED NOCTURNO AUTUMATICO
+LED NOCTURNO AUTOMATICO
 
       OBJETIVOS DE LA PRACTICA
    
 OBJETIVOS GENERALES:
 
+Realizar un proyecto de "Led nocturno automatico" en el protoboard utilizando una fotorresistencia que ayude a conocer el funcionamiento de la misma  
 
 OBJETIVOS ESPECIFICOS:
 
-      MARCO TEORICO
-      
-      MATERIAL Y EQUIPO REQUERIDO
+•  Conocer el funcionamiento de cada uno de los componentes dentro del circuito 
 
-![image](https://user-images.githubusercontent.com/117923992/204065370-1b9bc933-5d6a-4cc2-9944-287889f7c6c7.png)
+•  Conectar los componentes en el circuito conociendo las polaridades de cada una 
+
+•  Controlar la activación de los led según el nivel de iluminación que cae sobre la fotorresistencia.
+
+      MARCO TEORICO
+
+![image](https://user-images.githubusercontent.com/117923992/204107383-a23a9e05-658c-4563-82b7-3bc4d743cff0.png)
+
+      MATERIAL Y EQUIPO REQUERIDO
+      
+![image](https://user-images.githubusercontent.com/117923992/204107055-1abda92a-c7b2-44cd-a30a-283d2d3c1f33.png)
+
 
       PROCEDIMIENTO
 Arme el circuito que se muestra en la figura 
@@ -81,8 +91,24 @@ Tabla con los resutados de las mediciones fisicas y simuladas
 ![image](https://user-images.githubusercontent.com/117923992/204065945-eaadb749-e88f-46b3-9490-c8835ba61f7f.png)
 
       VIDEO 
-      
+
+LINK: 
+
       CONCLUSIONES 
-      
+
+Se logro comprender el funcionamiento de cada uno de los componentes del laboratorio. 
+
+Se pudo observar lo que le pasa a la fotorresistencia cuando se coloca la mano o se lleva el circuito a un lugar oscuro.
+
+Con la ayuda de todos los componentes en especial las resistencias el circuito mejora en su funcionamiento.
+ 
+
       BIBLIOGRAFIA
       
+•  Diodo LED CÃ³mo funciona CaracterÃ­sticas y Ventajas. (s. f.). Tecnologia FÃ¡cil: Electricidad, ElectrÃ³nica, InformÃ¡tica, etc. https://www.areatecnologia.com/electronica/como-es-un-led.html
+
+•  LATAM, M. (21 de febrero de 2020). Fotoresistor, LDR o Fotoresistencia. Mecatrónica LATAM. https://www.mecatronicalatam.com/es/tutoriales/sensores/sensor-de-luz/ldr/
+
+•  Potenciómetro ¿Qué es y como funciona? (s. f.). Ingeniería Mecafenix. https://www.ingmecafenix.com/electronica/potenciometro/
+
+•  Transistor Electronico. Que Es, Funcionamiento, Tipos, Circuitos. (s. f.). Tecnologia FÃ¡cil: Electricidad, ElectrÃ³nica, InformÃ¡tica, etc. https://www.areatecnologia.com/TUTORIALES/EL%20TRANSISTOR.htm
