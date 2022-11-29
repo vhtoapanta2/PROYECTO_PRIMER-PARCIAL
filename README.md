@@ -98,10 +98,15 @@ Tabla 1.
 
 ![image](https://user-images.githubusercontent.com/117923992/204065945-eaadb749-e88f-46b3-9490-c8835ba61f7f.png)
 
+ERROR RELATIVO 
+
+![image](https://user-images.githubusercontent.com/117923992/204412438-14e6e414-e339-4799-ae5f-a6683d9bdb1b.png)
+
+
 
       VIDEO 
 
-LINK: 
+LINK: https://youtu.be/edQFSr8Ning
 
       CONCLUSIONES 
 
